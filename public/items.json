@@ -1,0 +1,31 @@
+
+[
+    {
+
+    "img": "/next.png",
+    "location": "London",
+    "distance": "35-minute drive"
+},
+    {
+
+    "img": "/pause.png",
+    "location": "London",
+    "distance": "35-minute drive"
+},
+    {
+
+    "img": "/play.png",
+    "location": "London",
+    "distance": "35-minute drive"
+},
+    {
+
+    "img": "/prev.png",
+    "location": "London",
+    "distance": "35-minute drive"
+}
+    
+
+
+
+]
